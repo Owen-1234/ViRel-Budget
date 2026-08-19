@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}
 authors = [
-    {name = "Weilin Wan"},
+    {name = "Sean Wan"},
     {name = "Shilin Ou"},
     {name = "Luyao Zhang"},
 ]
@@ -21,23 +21,23 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/SeanWan514/ViRel_Budget"
-Repository = "https://github.com/SeanWan514/ViRel_Budget"
-Issues = "https://github.com/SeanWan514/ViRel_Budget/issues"
+Homepage = "https://github.com/StableTradeAtlas/ViRel-Budget"
+Repository = "https://github.com/StableTradeAtlas/ViRel-Budget"
+Issues = "https://github.com/StableTradeAtlas/ViRel-Budget/issues"
 
 [project.optional-dependencies]
 model = [
     "torch>=2.3",
     "transformers>=4.50",
     "accelerate>=0.30",
-    "codecarbon>=2.4",
+    "codecarbon==3.2.9",
 ]
 research = [
     "torch>=2.3",
     "transformers>=4.50",
     "datasets>=2.19",
     "accelerate>=0.30",
-    "codecarbon>=2.4",
+    "codecarbon==3.2.9",
 ]
 plot = [
     "matplotlib>=3.8",

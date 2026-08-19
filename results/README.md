@@ -1,10 +1,10 @@
-# Frozen result artifacts
+# Recorded result artifacts
 
 - `prospective/`: sealed 900-case controller summaries.
-- `replication/`: compact raw records, draw audits, and 210×3 aggregate results.
+- `replication/`: compact raw records, draw audits, and 210×3 repeated-workload aggregate results (historical path retained for compatibility).
 - `carbon/`: whole-program run ledger and footprint summary.
 - `pareto/`: model-scale and controller resource frontiers.
-- `controllers/`: frozen controllers and strict-label tables.
+- `controllers/`: prespecified controllers and strict-label tables.
 - `feature_analysis/`: development-only grouped feature ablation and reproduction inputs.
 - `integrity/`: experiment contracts and checksums.
 
