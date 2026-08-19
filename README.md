@@ -126,4 +126,4 @@ To support transparency, reproducibility, and reuse, we release evaluation manif
 
 ## 🙏 Acknowledgments
 
-Sean Wan and Shilin Ou gratefully acknowledge support from the Summer Research Scholars Program at Duke Kunshan University, under the supervision of Prof. Luyao Zhang, and from the Duke Kunshan University Library grant supporting the Open Data Contest project.
+Sean Wan and Shilin Ou gratefully acknowledge support from the Summer Research Scholars Program at Duke Kunshan University (DKU) and from the DKU Library grant supporting the Shanghai Library Open Data Contest project entitled "StableTradeAtlas", both under the supervision of Prof. Luyao Zhang.
