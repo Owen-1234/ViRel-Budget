@@ -3,10 +3,10 @@
 This repository intentionally includes:
 
 - installable framework source;
-- frozen experiment configurations and protocols;
+- recorded experiment configurations and protocols;
 - group-isolated dataset manifests and test fixtures;
-- compact raw 210×3 replication records;
-- prospective, replication, carbon, Pareto, controller, feature-analysis, and integrity summaries;
+- compact raw 210×3 repeated-workload records;
+- prospective, repeated-workload, carbon, Pareto, controller, feature-analysis, and integrity summaries;
 - official-environment setup helpers and the Random-pruning patch;
 - tests and reviewer-facing documentation.
 
@@ -17,4 +17,4 @@ It intentionally excludes:
 - model weights, third-party repositories, source images, and private qualitative-review material;
 - private qualitative mappings, credentials, and machine-specific environments.
 
-The full pre-cleanup workspace is retained outside this public tree in a checksum-verified research archive.
+The full pre-cleanup workspace is retained outside this public tree in a checksum-verified research archive. Consequently, this public repository supports verification of released manifests, summaries, and compact records but is not a self-contained redistribution of every source asset or historical intermediate output.

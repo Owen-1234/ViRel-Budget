@@ -23,7 +23,7 @@ python -m pip install "torch==2.8.0" "torchvision==0.23.0" --index-url https://d
 python -m pip install \
   "numpy<2" pandas pillow "accelerate==0.34.2" shortuuid "sentencepiece==0.1.99" \
   protobuf "einops==0.6.1" "einops-exts==0.0.4" "timm==0.6.13" \
-  requests pyyaml regex safetensors "tokenizers==0.15.1" "transformers==4.37.2" "matplotlib==3.9.2" codecarbon
+  requests pyyaml regex safetensors "tokenizers==0.15.1" "transformers==4.37.2" "matplotlib==3.9.2" "codecarbon==3.2.9"
 python -m pip install -e "$EXTERNAL_DIR/SCOPE/LLaVA" --no-deps
 
 python - "$EXTERNAL_DIR" <<'PY'
