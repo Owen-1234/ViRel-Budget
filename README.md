@@ -19,6 +19,20 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="docs/publications/virel-budget-greenmm-paper.pdf"><img alt="Read the GreenMM paper" src="https://img.shields.io/badge/Paper-PDF-8B1E3F?style=for-the-badge"></a>
+  <a href="docs/publications/virel-budget-greenmm-poster.pdf"><img alt="View the poster" src="https://img.shields.io/badge/Poster-PDF-1F5C99?style=for-the-badge"></a>
+  <a href="docs/publications/virel-budget-greenmm-slides.pdf"><img alt="View the slides" src="https://img.shields.io/badge/Slides-PDF-6B4FA1?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <a href="#research-outputs">Research Outputs</a> ·
+  <a href="#-release-snapshot">Release Snapshot</a> ·
+  <a href="#-method-in-one-view">Method</a> ·
+  <a href="#-quick-start">Quick Start</a> ·
+  <a href="#-scope-and-limitations">Limitations</a>
+</p>
+
 **ViRel-Budget** asks a concrete systems question: **how aggressively can a vision-language model prune visual tokens while preserving its dense answer and intervention-defined response behavior?** It turns development-only supervision into a prespecified controller, executes one selected action per query, and evaluates the complete path using accuracy, unsafe acceptance, GPU energy, latency, memory, carbon estimates, and reliability-adjusted efficiency.
 
 GitHub repository: https://github.com/StableTradeAtlas/ViRel-Budget
@@ -27,6 +41,15 @@ Hugging Face dataset: https://huggingface.co/datasets/StableTradeAtlas/ViRel-Bud
 
 > [!IMPORTANT]
 > ViRel-Budget measures **intervention-defined visual reliance**; it does not claim to certify universal semantic grounding. Intervention outputs supervise and evaluate the controller but are never available to it at deployment.
+
+## Research Outputs
+
+| Output | Description | Access |
+|---|---|:---:|
+| Research paper | *ViRel-Budget: Reliability-Constrained Visual-Token Budgeting for Green Vision-Language Inference* | [PDF](docs/publications/virel-budget-greenmm-paper.pdf) |
+| Academic poster | GreenMM workshop poster | [PDF](docs/publications/virel-budget-greenmm-poster.pdf) |
+| Presentation slides | GreenMM oral-presentation deck | [PDF](docs/publications/virel-budget-greenmm-slides.pdf) |
+| Publication archive | Compilation notes and file provenance | [Open](docs/publications/README.md) |
 
 ## ✨ Release snapshot
 
