@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="docs/publications/virel-budget-greenmm-paper.pdf"><img alt="Read the GreenMM paper" src="https://img.shields.io/badge/Paper-PDF-8B1E3F?style=for-the-badge"></a>
+  <a href="https://openreview.net/forum?id=NiAcPmU4ti"><img alt="Read the GreenMM paper" src="https://img.shields.io/badge/Paper-OpenReview-8B1E3F?style=for-the-badge"></a>
   <a href="docs/publications/virel-budget-greenmm-poster.pdf"><img alt="View the poster" src="https://img.shields.io/badge/Poster-PDF-1F5C99?style=for-the-badge"></a>
   <a href="docs/publications/virel-budget-greenmm-slides.pdf"><img alt="View the slides" src="https://img.shields.io/badge/Slides-PDF-6B4FA1?style=for-the-badge"></a>
 </p>
@@ -42,14 +42,20 @@ Hugging Face dataset: https://huggingface.co/datasets/StableTradeAtlas/ViRel-Bud
 > [!IMPORTANT]
 > ViRel-Budget measures **intervention-defined visual reliance**; it does not claim to certify universal semantic grounding. Intervention outputs supervise and evaluate the controller but are never available to it at deployment.
 
+## Official publication links
+
+- [GreenMM 2026 at ACM Multimedia](https://sites.google.com/view/greenmm-workshop)
+- [Read the paper](https://openreview.net/forum?id=NiAcPmU4ti)
+- [Citation and publication details](docs/publications/README.md) · [BibTeX](CITATION.bib)
+
 ## Research Outputs
 
 | Output | Description | Access |
 |---|---|:---:|
-| Research paper | *ViRel-Budget: Reliability-Constrained Visual-Token Budgeting for Green Vision-Language Inference* | [PDF](docs/publications/virel-budget-greenmm-paper.pdf) |
+| Research paper | *ViRel-Budget: Reliability-Constrained Visual-Token Budgeting for Green Vision-Language Inference* | [OpenReview](https://openreview.net/forum?id=NiAcPmU4ti) |
 | Academic poster | GreenMM workshop poster | [PDF](docs/publications/virel-budget-greenmm-poster.pdf) |
 | Presentation slides | GreenMM oral-presentation deck | [PDF](docs/publications/virel-budget-greenmm-slides.pdf) |
-| Publication archive | Compilation notes and file provenance | [Open](docs/publications/README.md) |
+| Publication archive | Official paper links and citation | [Open](docs/publications/README.md) |
 
 ## ✨ Release snapshot
 

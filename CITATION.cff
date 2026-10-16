@@ -13,3 +13,16 @@ version: 1.0.0
 date-released: 2026-08-19
 license: Apache-2.0
 repository-code: "https://github.com/StableTradeAtlas/ViRel-Budget"
+preferred-citation:
+  type: conference-paper
+  title: "ViRel-Budget: Reliability-Constrained Visual-Token Budgeting for Green Vision-Language Inference"
+  authors:
+    - family-names: Wan
+      given-names: Sean
+    - family-names: Ou
+      given-names: Shilin
+    - family-names: Zhang
+      given-names: Luyao
+  year: 2026
+  collection-title: "GreenMM 2026 at ACM Multimedia"
+  url: "https://openreview.net/forum?id=NiAcPmU4ti"
